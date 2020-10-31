@@ -5,3 +5,7 @@ JSONParser/.vs/
 JSONParser/bin/
 JSONParser/obj/
 JSONParser/packages/
+JSONParserTests/.vs/
+JSONParserTests/bin/
+JSONParserTests/obj/
+JSONParserTests/packages/
