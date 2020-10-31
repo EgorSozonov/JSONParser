@@ -1,0 +1,7 @@
+test/
+.vs/
+packages/
+JSONParser/.vs/
+JSONParser/bin/
+JSONParser/obj/
+JSONParser/packages/
